@@ -1,1 +1,2 @@
 # PRODIGY_ML_01
+I have implemented a linear regression model for house price prediction based on Task-01: "Implement a linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms." The goal was to find the best-fit line (regression line) that predicts the house prices (dependent variable) based on the features such as square footage, number of bedrooms, and number of bathrooms (independent variables).
